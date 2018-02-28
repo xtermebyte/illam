@@ -18,6 +18,7 @@ namespace Illam.Controllers
         Dictionary<int, string> answerKey;
         test1
         Test
+            test2
 
         public TestController()
         {
