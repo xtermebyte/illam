@@ -16,11 +16,6 @@ namespace Illam.Controllers
         const string ImagesFolder = ""; // "/illam/Images/";
         const string QuestionsImageFolder = ""; // "/illam/Images/Test1/";
         Dictionary<int, string> answerKey;
-        test1
-        Test
-            test2
-
-            test5
 
         public TestController()
         {
